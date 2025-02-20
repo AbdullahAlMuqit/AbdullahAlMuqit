@@ -1,29 +1,27 @@
-
-
-![Banner](https://github.com/Mohammad-Afif/Mohammad-Afif/blob/main/20250220_224112.png)
+![Banner]()
 <h4 align="center">✨ Step Into the Future of Tech!</h4>
 <hr>
-I'm from in Bangladesh, I am a student of <a href="https://www.narayanganj.gov.bd/bn/site/education_institute/Sfvk-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%A3%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C">Tolaram College</a>. Currently I completing my intermediate (HSC) here.
+I'm from in Bangladesh, I am a student of <a href="https://tolaramcollege.edu.bd/" >Tolaram Collage</a>. Currently I completing my intermediate (HSC) here.
 <br></br>
-Apart from that, I am love to represent myself as a tech enthusiast and I also love to write articles and blogs (on Web Development, App development, Cybersecurity and Linux Tips) and contributing to open source. 
-<br></br>
-
-I also satisfied to my team of couple of members where we do freelancing and provide many services to our clients.
+Apart from that, I love to represent myself as a tech enthusiast and I also love to write articles and blogs (on Web Development, App development, Cybersecurity and Linux Tips) and contributing to open source. 
 <br></br>
 
-**My Research Interest**:
+I also have team of couple of members where we do freelancing and provide many services to our clients.
+<br></br>
+
+**My Learning Interest**:
 - Blockchain
-- Machine Learning
-- Virtual Reality
-- Web3 Development
+- Blogging
+- SEO Optimization
+- Full Web Development
 - Cybersecurity
 
- **I am open to**:
+ **I am available for**:
 
 - any collaboration work,
 - web development projects,
 - SEO optimization and blogging,
-- available to become your bug hunter.
+- others freelancing work.
 
 ## Skills:
 
