@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/AbdullahAlMuqit/AbdullahAlMuqit/blob/65a517ed14ae81605c578196f6792d65668369a6/20250220_155419.png)
 <h4 align="center">✨ Step Into the Future of Tech!</h4>
 <hr>
 I'm from in Bangladesh, I am a student of <a href="https://tolaramcollege.edu.bd/" >Tolaram Collage</a>. Currently I completing my intermediate (HSC) here.
@@ -10,17 +10,16 @@ I also have team of couple of members where we do freelancing and provide many s
 <br></br>
 
 **My Learning Interest**:
-- Blockchain
-- Blogging
-- SEO Optimization
-- Full Web Development
+- Full Stack Development
+- App Development
 - Cybersecurity
+- Blockchain 
+- Machine Learning
 
  **I am available for**:
 
 - any collaboration work,
-- web development projects,
-- SEO optimization and blogging,
+- development projects,
 - others freelancing work.
 
 ## Skills:
