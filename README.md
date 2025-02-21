@@ -1,5 +1,15 @@
+
+
+|Readme - Abdullah Al Muqit 
+|-----------|
 ![Banner](https://github.com/AbdullahAlMuqit/AbdullahAlMuqit/blob/65a517ed14ae81605c578196f6792d65668369a6/20250220_155419.png)
+
+
+
+
 <h4 align="center">✨ Step Into the Future of Tech!</h4>
+
+
 <hr>
 I'm from in Bangladesh, I am a student of <a href="https://tolaramcollege.edu.bd/" >Tolaram Collage</a>. Currently I completing my intermediate (HSC) here.
 <br></br>
